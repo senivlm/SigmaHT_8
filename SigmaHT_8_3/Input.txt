@@ -1,0 +1,4 @@
+﻿This (is) input (file (for the) third) task. Hello world.
+This (sentence (demonstrates (the problem of 
+the) end) of) sentence.
+But that isn't the problem.
