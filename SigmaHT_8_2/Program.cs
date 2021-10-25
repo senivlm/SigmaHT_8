@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace SigmaHT_8_2
 {
     class Program
-    {
+    {Цю роботу треба делегувати в інший клас. Також порушуєте інкапсуляцію колекції
         static void Main(string[] args)
         {
             FileWorker fileWorker1 =
