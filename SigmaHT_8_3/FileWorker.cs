@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.IO;
 
 namespace SigmaHT_8_3
-{
+{ А якщо речення буде в кількох стрічках, де опрацьована така ситуація?
     class FileWorker
     {
         public List<string> lines;
